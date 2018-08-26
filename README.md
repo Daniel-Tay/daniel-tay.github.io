@@ -1,3 +1,5 @@
+# Who is Daniel Tay?
+
 <p align="center"><img src="/Profile.jpg" alt="Profile" width="240px" class="center"/></p>
 
 Hey there! My name is Daniel Tay, and I'm currently a Data Science major at The College of William & Mary. Before realising that data analysis was something that I enjoyed, I was a Psychology and Economics major. I originally flirted with the idea of pursuing a PhD in Psychology, but I eventually realised that academia wasn't my cup of tea.
@@ -8,9 +10,9 @@ When I'm not busy worrying about what I'm going to do after I graduate from coll
 
 P.S. My natural hair colour is black, but I think my true spirit hair colour is blue.
 
-# Daniel Tay's Portfolio
+# Data Science Portfolio
 
-Here is a sample of the data science projects that I have done. For more information about me, please click [here](http://daniel-tay.github.io/About-Me.html).
+Here is a sample of the data science projects that I have done.
 
 ## Python
 
