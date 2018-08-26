@@ -1,6 +1,7 @@
 # Daniel Tay's Portfolio
 
 Here is a sample of the data science projects that I have done. For more information about me, please click [here]().
+
 ## Python
 
 [*The Kalevala*](http://nbviewer.jupyter.org/github/Daniel-Tay/daniel-tay.github.io/blob/master/Kalevala.ipynb): In this project, I analyse an excerpt of *The Kalevala* for vowel harmony.
