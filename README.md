@@ -1,6 +1,6 @@
 # Daniel Tay's Portfolio
 
-Here is a sample of the data science projects that I have done. For more information about me, please click [here]().
+Here is a sample of the data science projects that I have done. For more information about me, please click [here](http://daniel-tay.github.io/About-Me.html).
 
 ## Python
 
