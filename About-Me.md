@@ -1,8 +1,4 @@
-.. Title: About Me
-.. Date: 2018-07-16 17:30
-.. Tags: about-me
-
-<img src="/Profile.jpg" alt="Profile" width="240px" class="center"/>
+<p align="center"><img src="/Profile.jpg" alt="Profile" width="240px" class="center"/></p>
 
 Hey there! My name is Daniel Tay, and I'm currently a Data Science major at The College of William & Mary. Before realising that data analysis was something that I enjoyed, I was a Psychology and Economics major. I originally flirted with the idea of pursuing a PhD in Psychology, but I eventually realised that academia wasn't my cup of tea.
 
