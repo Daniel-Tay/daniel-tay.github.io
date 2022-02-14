@@ -18,4 +18,4 @@ Here is a sample of the data science projects that I have done.
 
 ## R
 
-[The Average Pokemon](http://nbviewer.jupyter.org/github/Daniel-Tay/daniel-tay.github.io/blob/master/The Average Pokemon.ipynb): In this project, I examine which Pokemon has base stats that most closely resemble the "average" Pokemon used in competitive play.
+[The Average Pokemon](http://nbviewer.jupyter.org/github/Daniel-Tay/daniel-tay.github.io/blob/master/The%20Average%20Pokemon.ipynb): In this project, I examine which Pokemon has base stats that most closely resemble the "average" Pokemon used in competitive play.
